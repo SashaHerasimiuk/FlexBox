@@ -1,0 +1,27 @@
+article {
+	margin:auto;
+	border:2px solid black;
+	height: 600px;
+	width:600px;
+	display:flex;
+	align-items: center;
+	flex-direction: row-reverse;
+
+
+}
+div	{
+	width: 200px;
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
+	
+}
+#uno {
+	background-color: red;
+}
+#dos {
+	background-color: blue;
+}
+#tres {
+	background-color: green;
+}
